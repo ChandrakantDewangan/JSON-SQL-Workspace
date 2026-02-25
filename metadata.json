@@ -1,0 +1,5 @@
+{
+  "name": "JSON SQL Workspace",
+  "description": "A powerful interface to treat JSON arrays as relational tables, allowing joins, filtering, and data modification using SQL-like operations.",
+  "requestFramePermissions": []
+}
